@@ -5,7 +5,6 @@ Senior Android Developer
 ---------------------------------
 
 * 🌍  I'm based in London, UK
-* 🖥️  See my portfolio at [Linkedin](http://www.linkedin.com/in/monika-singh-192b8036/)
 * 🧠  I'm learning DevOps
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=monikasinghmk&label=Profile%20views&color=0e75b6&style=flat" alt="monikasinghmk" /> </p>
