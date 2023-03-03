@@ -4,8 +4,6 @@ Hi 👋 My name is Monika Singh
 Senior Android Developer
 ---------------------------------
 
-Working with MNC clients across Europe in Banking sectors
-
 * 🌍  I'm based in London, UK
 * 🖥️  See my portfolio at [Linkedin](http://www.linkedin.com/in/monika-singh-192b8036/)
 * 🧠  I'm learning DevOps
