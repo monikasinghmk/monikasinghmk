@@ -5,7 +5,6 @@ Senior Android Developer
 ---------------------------------
 
 * 🌍  I'm based in London, UK
-* 🧠  I'm learning DevOps
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=monikasinghmk&label=Profile%20views&color=0e75b6&style=flat" alt="monikasinghmk" /> </p>
 
